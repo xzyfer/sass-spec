@@ -2,4 +2,4 @@ foo {
   is-defined: true;
   is-number: true;
   is-within-range: true;
-  is-random: true; }
+  is-random: false; }
