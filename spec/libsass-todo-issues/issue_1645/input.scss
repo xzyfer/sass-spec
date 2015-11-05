@@ -1,0 +1,13 @@
+@function bar($args...) {
+  @return length($args);
+}
+
+@function args($args...) {
+  @return $args;
+}
+
+$a: args(1, 2, 3);
+
+test {
+  test: bar($a);
+}
