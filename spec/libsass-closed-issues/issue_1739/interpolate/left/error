@@ -1,0 +1,91 @@
+DEPRECATION WARNING on line 9 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 + 2}+3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 10 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 + 2}+ 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 11 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 + 2} +3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 12 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 + 2} + 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 19 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 - 2} - 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 23 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 * 2}*3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 24 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 * 2}* 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 25 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 * 2} *3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 26 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 * 2} * 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 30 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1% 2}%3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 31 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1% 2}% 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 32 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 % 2} %3")
+
+You can use the sass-convert command to automatically fix most cases.
+
+DEPRECATION WARNING on line 33 of /sass/sass-spec-2/spec/libsass-closed-issues/issue_1739/interpolate/left/input.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("#{1 % 2} % 3")
+
+You can use the sass-convert command to automatically fix most cases.
+
